@@ -1,10 +1,11 @@
 <div align="center">
-<h1 align="center">Hola, soy Alexis Palacio 👋</h1>
+  <h1 align="center">Hola! 👋</h1>
 </div>
-!(https://www.canva.com/design/DAGN7raf6yI/AaK7xg98LsCFVVqnR8FzXA/edit?utm_content=DAGN7raf6yI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+![banner](https://github.com/soyalexis/soyalexis/blob/master/Banner%20de%20Linkedin%20para%20Copywriter%20Moderno%20Neutral.png)
 
-## Sobre mi
+## Sobre mí
+
 
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
