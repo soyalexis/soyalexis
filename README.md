@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Alexis Palacio 👋</h1>
 </div>
-![Descripción de la imagen]([https://url-directa-a-la-imagen](https://www.canva.com/design/DAGN7raf6yI/AaK7xg98LsCFVVqnR8FzXA/edit?utm_content=DAGN7raf6yI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+!(https://www.canva.com/design/DAGN7raf6yI/AaK7xg98LsCFVVqnR8FzXA/edit?utm_content=DAGN7raf6yI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ## Sobre mi
