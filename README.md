@@ -6,54 +6,78 @@
 
 ## Sobre mí
 
+Soy una persona proactiva y organizada, con habilidades para gestionar tareas de manera responsable y eficiente. Considero que la colaboración y la empatía son pilares esenciales para un trabajo en equipo exitoso y un ambiente de trabajo cálido y feliz. 
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+50k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
-<br>
+Como científico de datos, descubrí que a lo largo de mi trayectoria laboral he desempeñado funciones tanto de ingeniero como de analista de datos. Esto incluye tareas desde cargar, verificar y corregir datos en una base de datos para resolver problemas de automatización de sistemas, hasta la recolección de datos para la elaboración de informes utilizados para cumplir, modificar o cambiar objetivos (KPIs).
 
-## Proyectos *bombitas*
+Disfruto transformar datos en ideas, encontrando soluciones creativas a los problemas que enfrento. Siempre estoy en busca de desafíos que me permitan ampliar mis habilidades, con el objetivo de generar un impacto significativo en el campo de la ciencia de datos.
+
+### Herramientas y tecnologías favoritas: 
+- Python
+- TensorFlow
+- Keras
+- Scikit-learn
+- NLTK
+- Matplotlib
+- Ggplot2
+- SQL
+- Power BI
+- Streamlit
+- Hadoop
+- PySpark
+- NoSQL
+- Google Cloud Platform (GCP)
+- Apache Spark
+- Apache Hive
+- MongoDB
+- Docker
+- Snowflake
+- Airflow
+- FastAPI
+
+## Proyectos *principales*
+
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">Curso Android Básico</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Proyecto de InnovaAI Analytics</h3>
+      <div align="center">
+        <a href="https://github.com/mreliflores/PF-Henry" target="_blank">
+          <img src="https://github.com/mreliflores/PF-Henry/blob/main/assets/innovaLogo.jpeg" width="400" alt="InnovaAI Analytics Logo">
+        </a>
+        <p>
+          <a href="https://github.com/mreliflores/PF-Henry/blob/main/Sprint%233/streamlit/google_final.py" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-D3D3D3?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://www.youtube.com/watch?v=wnFXm65zQrw" target="_blank">
+            <img src="https://img.shields.io/badge/-Youtube-D3D3D3?style=for-the-badge">
+          </a>
+        </p>
+        <p><strong>Objetivo General:</strong> Desarrollar, implementar y comercializar un sistema de recomendación de restaurantes mediante la creación de una plataforma integral, basado en un análisis de sentimiento de los reviews de clientes en las plataformas de Yelp y Google Maps. Este sistema estará específicamente diseñado para los estados de Pennsylvania y Florida en los Estados Unidos, empleando técnicas de IA, Big Data y Machine Learning.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Sistema de recomendación ML - Games Steam</h3>
+      <div align="center">                                       
+        <a href="https://github.com/soyalexis/pi_palacioalexis" target="_blank">
+          <img src="https://github.com/soyalexis/pi_palacioalexis/blob/master/Captura.PNG" width="400" alt="Sistema de recomendación ML - Games Steam">
+        </a>
+        <p>
+          <a href="https://github.com/soyalexis/pi_palacioalexis/blob/master/main.py" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-D3D3D3?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://youtu.be/mtsgqxSOVO0" target="_blank">
+            <img src="https://img.shields.io/badge/-Youtube-D3D3D3?style=for-the-badge">
+          </a>
+        </p>
+        <p>Este repositorio contiene el desarrollo de un proyecto que abarca tareas de ETL, Análisis Exploratorio de Datos (EDA), y Machine Learning (ML). El proyecto se dividió en partes, y cada una de ellas se abordó en notebooks independientes.</p>
+        <p><strong>Base de datos:</strong> User Reviews Steam Games User Items</p>
+      </div>                                                             
+    </td>
+  </tr> 
+</table>
 
-<td width="50%">
-               <br>
-<h3 align="center">Arquitectura MVVM</h3>
-<div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
-<br>
-<p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
+
 
 <table>
 <tr>
@@ -65,7 +89,7 @@
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+<a href="https://www.youtube.com/watch?v=wnFXm65zQrw" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
